@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>Countdown 2024</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+
+<html>
+  <style>
+body {
+  background-image: url('https://i0.wp.com/codemyui.com/wp-content/uploads/2016/11/pure-css-snow-animation.gif?fit=880%2C440&ssl=1');
+}
+</style>
+   <body>
+     <center><h1> <marquee bgcolor="#A9E0B8" direction="lefe" scrollamount="5" width="50%">ยินดีต้อนรับสู่เว็บ Countdown 2024
+      </marquee>
+   </body>
+</htm>
+  
+  <script>(function(d, s, id) { var js, pjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = "//www.tickcounter.com/static/js/loader.js"; pjs.parentNode.insertBefore(js, pjs); }(document, "script", "tickcounter-sdk"));</script><a data-type="countdown" data-id="4176898" class="tickcounter" style="display: block; width: 100%; position: relative; padding-bottom: 25%" title="Countdown" href="//www.tickcounter.com/">Countdown</a>
+  <script src="script.js"></script>
+
+<script type="text/javascript">
+          if (localStorage.pagecount)
+            {
+            localStorage.pagecount=Number(localStorage.pagecount) +1;
+            }
+       else
+          {
+            localStorage.pagecount=1;
+            }
+       document.write("จำนวนครั้งที่เข้า "+ localStorage.pagecount + " ครั้ง");
+      </script>
+</script>
+    </div></h1></center>
+
+  <!--
+  This script places a badge on your repl's full-browser view back to your repl's cover
+  page. Try various colors for the theme: dark, light, red, orange, yellow, lime, green,
+  teal, blue, blurple, magenta, pink!
+  -->
+</body>
+<form>
+<input class="Button" type="button" value="Free Code" onclick="window.location.href='https://replit.com/@PHIANGPHETPHANI/poonpunpage#index.html'" />
+</form>
+</html>
